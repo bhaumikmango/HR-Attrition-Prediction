@@ -25,6 +25,10 @@ FEATURE_NAMES = [
 def home():
     return render_template('index.html')
 
+@app.route('/health')
+def health():
+    return jsonify({'status': 'running'})
+
 @app.route('/predict', methods=['POST'])
 def predict():
     if model is None:
