@@ -3,7 +3,7 @@
 A Machine Learning-based web application that predicts employee attrition using classification models trained on real HR datasets. This end-to-end project integrates Data Science, Model Optimization, Visualization, and Full-Stack Web Development.
 
 ### 🔗 Live Demo
-🚀 [HR Attrition Predictor App (Vercel Hosted)](https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
+🚀 [HR Attrition Predictor App (Vercel Hosted)](http://hr-attrition-project.vercel.app/)
 
 ---
 
@@ -108,7 +108,7 @@ The `index.html` serves as a user-friendly, interactive form:
 - **Model Loading**: `model.pkl` is loaded once at startup
 - **Frontend & Backend**: Served together for seamless UX
 
-🌍 [Live App](https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
+🌍 [Live App](http://hr-attrition-project.vercel.app/)
 
 ---
 
@@ -154,7 +154,7 @@ Bhaumik Mango
 
 💼 [GitHub Profile](https://github.com/bhaumikmango)
 
-🌐 [Live Demo](https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
+🌐 [Live Demo](https://hr-attrition-project.vercel.app/)
 
 📊 Passionate about Data Science, ML Engineering, and Full-Stack Apps
 
