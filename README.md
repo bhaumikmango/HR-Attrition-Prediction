@@ -151,19 +151,19 @@ http://127.0.0.1:5000/
 
 Bhaumik Mango
 
-💼 GitHub Profile (https://github.com/bhaumikmango)
+💼 [GitHub Profile](https://github.com/bhaumikmango)
 
-🌐 Live Demo (https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
+🌐 [Live Demo](https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
 
 📊 Passionate about Data Science, ML Engineering, and Full-Stack Apps
 
 📢 Acknowledgments-
 
-📁 IBM HR Analytics Employee Attrition Dataset (https://www.ibm.com/analytics/data-science/predictive-analytics)
+📁 [IBM HR Analytics Employee Attrition Dataset](https://www.ibm.com/analytics/data-science/predictive-analytics)
 
-🧪 Scikit-learn (https://scikit-learn.org/)
+🧪 [Scikit-learn](https://scikit-learn.org/)
 
-🌍 Vercel for seamless hosting (https://vercel.com/)
+🌍 [Vercel](https://vercel.com/) for seamless hosting
  
 💡 Inspired by real-world enterprise HR systems
 
