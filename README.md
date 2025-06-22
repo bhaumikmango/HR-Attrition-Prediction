@@ -64,6 +64,7 @@ JobRole, JobSatisfaction, MaritalStatus, MonthlyIncome, MonthlyRate,
 NumCompaniesWorked, OverTime, PercentSalaryHike, RelationshipSatisfaction,
 StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear,
 WorkLifeBalance, YearsInCurrentRole, YearsSinceLastPromotion
+```
 
 ## 🤖 Modeling Approach
 
@@ -126,7 +127,7 @@ The `index.html` serves as a user-friendly, interactive form:
 
 1. **Clone the Repository**
 
-   git clone https://github.com/bhaumikmango/HR-Attrition-Prediction.git
+   git clone (https://github.com/bhaumikmango/HR-Attrition-Prediction.git)
    cd HR-Attrition-Prediction
 
 2. **Set up Virtual Environment**
@@ -150,19 +151,19 @@ http://127.0.0.1:5000/
 
 Bhaumik Mango
 
-💼 GitHub Profile https://github.com/bhaumikmango
+💼 GitHub Profile (https://github.com/bhaumikmango)
 
-🌐 Live Demo https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/
+🌐 Live Demo (https://hr-attrition-prediction-git-main-bhaumiks-projects-006c20ba.vercel.app/)
 
 📊 Passionate about Data Science, ML Engineering, and Full-Stack Apps
 
 📢 Acknowledgments-
 
-📁 IBM HR Analytics Employee Attrition Dataset https://www.ibm.com/analytics/data-science/predictive-analytics
+📁 IBM HR Analytics Employee Attrition Dataset (https://www.ibm.com/analytics/data-science/predictive-analytics)
 
-🧪 Scikit-learn https://scikit-learn.org/
+🧪 Scikit-learn (https://scikit-learn.org/)
 
-🌍 Vercel for seamless hosting https://vercel.com/
+🌍 Vercel for seamless hosting (https://vercel.com/)
  
 💡 Inspired by real-world enterprise HR systems
 
