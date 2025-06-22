@@ -113,15 +113,15 @@ The `index.html` serves as a user-friendly, interactive form:
 
 ## 📦 Project Structure
 
-├── app.py # Flask application
-├── model.py # Model training and export
-├── model.pkl # Trained ML model (pickled)
-├── templates/
-│ └── index.html # Frontend HTML page
-├── static/ # (Optional) CSS/JS assets if separated
-├── EDA.ipynb # Jupyter notebook for data analysis
-├── requirements.txt # Python dependencies
-└── README.md # You're here!
+|  ├── app.py # Flask application                        |                    
+|  ├── model.py # Model training and export              | 
+|  ├── model.pkl # Trained ML model (pickled)            |
+|  ├── templates/                                        |
+|  │ └── index.html # Frontend HTML page                 |
+|  ├── static/ # (Optional) CSS/JS assets if separated   |
+|  ├── EDA.ipynb # Jupyter notebook for data analysis    |
+|  ├── requirements.txt # Python dependencies            |
+|  └── README.md # You're here!                          |  
 
 ## 💡 How to Run Locally
 
