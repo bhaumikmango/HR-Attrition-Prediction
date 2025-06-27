@@ -168,4 +168,4 @@ Bhaumik Mango
  
 💡 Inspired by real-world enterprise HR systems
 
-##⭐ If you found this project helpful, feel free to give it a star!
+## ⭐ If you found this project helpful, feel free to give it a star!
